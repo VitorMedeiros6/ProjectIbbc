@@ -1,6 +1,6 @@
 Projeto ibbc Vítor Medeiros 56351
 
-Para correr este conjunto de scripts é neceesáriocolocar os ficheiros fastq de pair end reads na
+Para correr este conjunto de scripts é neceesário colocar os ficheiros fastq de pair end reads numa
 pasta raw_data que esta no diretorio projectIbbc.
 
 Run script1.sh -> vai criar a diretoria data_analysis que ira conter todos os ficheiros de output do:
