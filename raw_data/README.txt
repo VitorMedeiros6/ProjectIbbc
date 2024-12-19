@@ -1,0 +1,1 @@
+Esta pasta serve para serem colocados os ficehiros iniciais das pair end reads antes de ser corrido o script1.sh
